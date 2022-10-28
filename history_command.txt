@@ -1,0 +1,500 @@
+    3  pwd
+    4  cd OSS
+    5  1s
+    6  pwd
+    7  cd OSS
+    8  pwd
+    9  cat file_list.txt
+   10  project1 file_list.text
+   11  응용프로그래밍 file_list.txt
+   12  ls -lh | less
+   13  git remote add origin https://github.com/ggmu53/git-practice.git
+   14  git remote -v
+   15  git push -u origin main
+   16  git init
+   17  git remote add origin https://github.com/ggmu53/git-practice.git
+   18  git remote -v
+   19  git push -u origin main
+   20  git config user.name "kim hyun jun"
+   21  git config user.email "ggmu53@gachon.ac.kr"
+   22  git push -u origin main
+   23  git init
+   24  git add.
+   25  git commit-m "message"
+   26  pwd
+   27  ls
+   28  cd OSS
+   29  cd OSS
+   30  cd OSS
+   31  CD ..
+   32  cd ..
+   33  pwd
+   34  pwd
+   35  pwd
+   36  ls
+   37  cd OSS
+   38  PWD
+   39  pwd
+   40  ls
+   41  ls -1
+   42  ls -lh
+   43  ls -lh
+   44  .git
+   45  ls
+   46  cd ggmu53
+   47  ls
+   48  clear
+   49  pwd
+   50  Users
+   51  ls
+   52  cp .git
+   53  cp --help
+   54  clear
+   55  man cp
+   56  git --version
+   57  git config --list
+   58  git config --global user.name "kim hyun jun"
+   59  git config --global user.email ggmu53@gachon.ac.kr
+   60  git config --global init.defaultBranch main
+   61  git config --list
+   62  git config user.name
+   63  git config user.address
+   64  git init
+   65  git init
+   66  ls -lha
+   67  pwd
+   68  ls
+   69  cd
+   70  cd OSS
+   71  ls
+   72  cd VIDEOS
+   73  cd Videos
+   74  ls
+   75  ls
+   76  clear
+   77  pwd
+   78  ls
+   79  cd OSS
+   80  help cd
+   81  cd OSS
+   82  cat file_list
+   83  pwd
+   84  ls
+   85  clear
+   86  pwd
+   87  oss
+   88  ls
+   89  cd OSS
+   90  git config --list
+   91  git config --global init.defaultBranch main
+   92  git config user.name
+   93  git init
+   94  ls -lha
+   95  git status
+   96  git add README.md
+   97  git status
+   98  git add hello_world words.txt
+   99  git add REAMDME.md
+  100  nano words.txt
+  101  git add .
+  102  git rm --cached history_command.txt
+  103  git status
+  104  ls history_command.txt
+  105  nano .gitignore
+  106  git commit
+  107  git log
+  108  git beanch
+  109  git branch -m master main
+  110  git branch
+  111  git rm --cached file_list.txt
+  112  git status
+  113  git mv words.txt new_words.txt
+  114  nano new_words.txt
+  115  git remote add origin https://github.com/ggmu53/git-practice.git
+  116  git remote -v
+  117  git push -u origin main
+  118  git push -u origin README
+  119  init main
+  120  git add .git
+  121  git add OSS
+  122  git pull origin main
+  123  git checkout -b[OSS]
+  124  git checkout -b[.git]
+  125  git checkout -b[branch name]
+  126  git checkout [branch name]
+  127  git push -u origin main
+  128  git init
+  129  git add.git
+  130  git add.
+  131  git .git
+  132  git push -u origin main
+  133  git init
+  134  git add.
+  135  git commit -m "message"
+  136  git remote add origin "github.com/ggmu53/git-practice.git
+  137  .git
+  138  OSS
+  139  git checkout -b'master'
+  140  git push origin master
+  141  git push -u origin master
+  142  git push -u origin main
+  143  git remote -v
+  144  git push -u origin main
+  145  pwd
+  146  ls
+  147  cd Document
+  148  cd Documents
+  149  cd OSS
+  150  cd/c
+  151  clear
+  152  cd OSS
+  153  PWD
+  154  pwd
+  155  pwd
+  156  ls
+  157  clear
+  158  mkdir d14 && cd d14
+  159  ls
+  160  mkdir OSS
+  161  ls
+  162  ls -al
+  163  ls
+  164  pwd
+  165  ls
+  166  cd OSS
+  167  PWD
+  168  ls
+  169  mkdir OSS GitHub
+  170  ls
+  171  ls
+  172  .
+  173  cd ..
+  174  pwd
+  175  cd ../ggmu53
+  176  pwd
+  177  clear
+  178  pwd
+  179  cd OSS
+  180  ls -l
+  181  ls -lh
+  182  cp 
+  183  cp README
+  184  cp README.md
+  185  pwd
+  186  ls -lh
+  187  ls -lh > file_list.txt
+  188  cat file_list.txt
+  189  ls -lh>> file_list.txt
+  190  cat file_list.txt
+  191  cat words.txt
+  192  cat words.txt
+  193  cat words.txt
+  194  cat words.docx
+  195  cat word.txt.docx
+  196  ls -lh | less
+  197  ls | wc -l
+  198  echo print out the text
+  199  echo *
+  200  echo ~
+  201  ls -l --reverse --human-readable
+  202  nano file_list.sh
+  203  ls
+  204  git config --global user name :kim hyun jun"
+  205  q
+  206  ls
+  207  git config --global user.name "kim hyun jun"
+  208  git config --global user.email ggmu53@gachon.ac.kr
+  209  git config --global init.defaultBranch main
+  210  git config --list
+  211  ls -lha
+  212  d14
+  213  git commit -m "initial commit"
+  214  git status
+  215  git remote add origin https://github.com/ggmu53/git-practice.git
+  216  git remote -v
+  217  git push -u origin main
+  218  git push OSS main
+  219  pwd
+  220  ls
+  221  git push d14 main
+  222  git push d14/ main
+  223  cd "C:\OSS\Lab1_202235032_김현준.docx"
+  224  cd \C:\OSS\Lab1_202235032_김현준.docx
+  225  git init
+  226  git remote add origin https://github.com/ggmu53/git-practice.git
+  227  git branch -M main
+  228  git push -u origin main
+  229  echo "# git-practice" >> README.md
+  230  git init
+  231  git add README.md
+  232  git commit -m "first commit"
+  233  git branch -M main
+  234  git remote add origin https://github.com/ggmu53/git-practice.git
+  235  git push -u origin main
+  236  git pull
+  237   git branch --set-upstream-to=origin/<branch> main
+  238  git pull origin main
+  239  git push push -u origin main
+  240  git init
+  241  ls -lha
+  242  git status
+  243  git add REAMDME.md
+  244  git status
+  245  git add hello_world words.txt
+  246  nano words.txt
+  247  git add.
+  248  git status
+  249  cd branch-test/
+  250  git init
+  251  echo "# practicing git branching and merging" >> README.md
+  252  cat README.md
+  253  echo "first edition" >> edition.txt
+  254  cat edition.txt
+  255   ls -lha
+  256  git status
+  257  git add.
+  258  git commit -m "first commit"
+  259  nano edition.txt
+  260  cat edition.txt
+  261  git add edition.txt
+  262  git commit -m "second commit"
+  263  nano edition.txt
+  264  cat edition.txt
+  265  git add edition.txt
+  266  git commit -m "third commit"
+  267  git log
+  268  git branch
+  269  git branch testing
+  270  pwd
+  271  ls
+  272  ls
+  273  ls
+  274  pwd
+  275  ls -l
+  276  ls -lh
+  277  cd ..
+  278  ls -lh
+  279  pwd
+  280  ls
+  281  cp -r ../OSS .
+  282  LS -LH
+  283  ls -lh > file_list.txt
+  284  cat file_list.txt
+  285  ls -lh >> file_list.txt
+  286  cat words.txt
+  287  cat words.txt
+  288  CAT WORDS.TXT
+  289  cat words.txt
+  290  sort <words.txt> sorted_words.txt
+  291  ls -lh | less
+  292  echo print out the text
+  293  echo *
+  294  -rw-rw-r-- 1 kimhyunjun
+  295  chmod 644 words.txt
+  296  ls -lh
+  297  nano myscript.shell
+  298  sh myscript.sh
+  299  nano myscript.shell
+  300  git --version
+  301  git config --global user.name "hyunjun kim"
+  302  git config --global user.email ggmu53@gachon.ac.kr
+  303  git config --global init.defaultBranch main
+  304  git config --list
+  305  git init
+  306  git init
+  307  git status
+  308  ls -lha
+  309  OSS
+  310  git OSS
+  311  GIT INIT
+  312  git init
+  313  ls -lha
+  314  git init
+  315  git init
+  316  ls -lha
+  317  ls -lha
+  318  git init
+  319  git status
+  320  git init
+  321  git remote add
+  322  git init
+  323  git remote add
+  324  ls -lha
+  325  git init
+  326  git add README.md
+  327  git init
+  328  git init
+  329  ls -lha
+  330  git add README.md
+  331  git init
+  332  git init
+  333  git add README.md
+  334  git status
+  335  git add words.txt
+  336  nano words.txt
+  337  git status
+  338  git add.
+  339  ls -lha
+  340  git status
+  341  [init]
+  342  touch README.md && git add README.md && git commit -m "init"
+  343  git branch -a
+  344  git log
+  345  git remote add origin https://github.com/ggmu53/git-practice.git
+  346  cd branch-test/
+  347  git init
+  348  echo "#practicing git branching and merging" >> README.md
+  349  cat README.md
+  350  echo "first edition" >> edition.txt
+  351  cat edition.txt
+  352  ls -lha
+  353  nano edition.txt
+  354  git log
+  355  git branch
+  356  git config --global --add safe.directory .git
+  357  git init
+  358  git branch
+  359  git branch testing
+  360  git branch
+  361  git branch testing
+  362  $ git branch develop
+  363  fatal: Not a valid object name: 'master'.
+  364  $ git commit -m "initial commit"
+  365  git branch
+  366  git commit -m "1"
+  367  git log
+  368  git branch exp
+  369  git init
+  370  git branch
+  371  git log
+  372  cd branch-test/
+  373  git log --online --decorate --graph -all
+  374  git log --online --decorate --graph --all
+  375  git log --oneline --decorate --graph --all
+  376  cd branch-test/
+  377  cd branch-test/
+  378  git init
+  379  git branch-test/
+  380  cd branch-test/
+  381  cd branch-test/
+  382  git init
+  383  cd branch-test/
+  384  git init
+  385  ls -lha
+  386  git status
+  387  git add.
+  388  git commit -m "first commit"
+  389  nano edition.txt
+  390  git log
+  391  git log
+  392  git init
+  393  git log
+  394  git branch
+  395  git branch testing
+  396  git log --online --decorate
+  397  git init
+  398  git init
+  399  git add words.txt
+  400  git branch
+  401  git branch testing
+  402  pwd
+  403  ls
+  404  pwd
+  405  ls
+  406  cd OSS
+  407  pwd
+  408  ls
+  409  pwd
+  410  cd
+  411  pwd
+  412  ls
+  413  ls
+  414  cd OSS
+  415  mkdir new_directory
+  416  ls
+  417  pwd
+  418  ls -lha
+  419  cd OSS
+  420  ls
+  421  pwd
+  422  pwd
+  423  cd
+  424  pwd
+  425  ls -lh >> file_list.txt
+  426  cat file_list.txt
+  427  cat words.txt
+  428  cat words.txt
+  429  sort <words.txt> sorted_words.txt
+  430  cat sorted_words.txt
+  431  ls -lh | less
+  432  ls | wc -l
+  433  echo *
+  434  exho ~
+  435  echo print out the text
+  436  echo *
+  437  echo ~
+  438  echo ~김현준
+  439  ls -l --reverse --human-readable
+  440  ls -l /bin/bash
+  441  chmod 600 some_file
+  442  chmod 600 some_file
+  443  chmod 644 words.txt
+  444  ls -lh
+  445  sudo some_command
+  446  nano myscript.shell
+  447  sh myscript.sh
+  448  sh myscript.shell
+  449  git --version
+  450  git config --list
+  451  cd defaultBranch
+  452  pwd
+  453  cd defaultBranch
+  454  cd
+  455  ls
+  456  git config
+  457  git config --list
+  458  git config --list --show-origin
+  459  git config user.name
+  460  git init
+  461  ls -lha
+  462  git status
+  463  pwd
+  464  cd OSS
+  465  PWD
+  466  cd transformers
+  467  pwd
+  468  git --version
+  469  git config --global user.name "hyunjun kim"
+  470  git config --global user.email ggmu53@gachon.ac.kr
+  471  git config --global init.defaultBranch main
+  472  git config --list
+  473  git config --list --show-origin
+  474  git config user.name
+  475  git init
+  476  ls -lha
+  477  git status
+  478  git add README.md
+  479  git status
+  480  pwd
+  481  ls
+  482  git status
+  483  ls -lh
+  484  ls -lh > file_list.txt
+  485  cat file_list.txt
+  486  ls -lh >> file_list.txt
+  487  cat file_list.txt
+  488  cat words.txt
+  489  cat words.txt
+  490  sort <words.txt> sorted_words.txt
+  491  cat sorted_words.txt
+  492  ls -lh | less
+  493  ls \wc-l
+  494  echo *
+  495  echo ~
+  496  ls -l --reverse--human-readable
+  497  chmod 600 some_file
+  498  chmod 644 words.txt
+  499  ls -lh
+  500  nano myscript.sh
+  501  sh myscript.sh
+  502  history > history_command.txt
